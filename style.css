@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.countdown {
+    padding: 200px;
+    margin: 0 auto;
+}
+
+#timer {
+    font-size: 24px;
+    margin-top: 10px;
+    color: black;
+}
+
+span {
+    font-weight: bold;
+}
+.text {
+    padding: 200px;
+    margin: 0 auto;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+}
